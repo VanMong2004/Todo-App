@@ -14,15 +14,15 @@ Live app: [https://todo-app-psi-three-23.vercel.app](https://todo-app-psi-three-
 
 ### Light Mode
 
-![Light Mode](./src/assets/lightmode.png)
+![Light Mode](./screenshots/lightmode.png)
 
 ### Dark Mode
 
-![Dark Mode](./src/assets/darkmode.png)
+![Dark Mode](./screenshots/darkmode.png)
 
 ### Mobile View
 
-![Mobile](./src/assets/mobile.png)
+![Mobile](./screenshots/mobile.png)
 
 ---
 
